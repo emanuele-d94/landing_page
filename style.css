@@ -174,11 +174,6 @@ header{
     align-self: flex-end;
 }
 
-.section4{
-    width: 100%;
-    padding: 48px;
-}
-
 .section4-container{
     background-color: #3882F6;
     color: #F9FAF8;
@@ -190,7 +185,7 @@ header{
     align-items: center;
 
     max-width: 1200px;   /* quanto “larga” vuoi la pagina */
-    margin: 0 auto;     /* centra il contenitore */
+    margin: 48px auto;     /* centra il contenitore */
 }
 
 .section4-left{
